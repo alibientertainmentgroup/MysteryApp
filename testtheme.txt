@@ -1,0 +1,35 @@
+THEME: Test Theme
+
+[THEME NOTES]
+This theme is a test them.  The notes for this theme will go here such as place out a a clue before the game starts or something else required by the game.
+
+[CHECKLIST]
+Item 1
+Item 2
+Item 3 
+Item 4
+Item 5
+
+[INTRO READ ORDER]
+Character 1
+Character 2
+Character 3
+Character 4
+Character 5
+Character 6
+Character 7
+Character 8
+
+[ROUND 2 HOST INSTRUCTIONS]
+Make sure all guests have their envelopes before beginning.
+Read the clue card aloud first.
+
+[ROUND 4 CHARACTER ACCUSATION ORDER]
+Character 1
+Character 2
+Character 3
+Character 4
+Character 5
+Character 6
+Character 7
+Character 8
