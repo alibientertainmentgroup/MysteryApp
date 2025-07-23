@@ -1,24 +1,24 @@
-Annual Ugly Christmas Sweater Party | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-April’s Foolish Mystery Party | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-At The Strike of Midnight | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Bootleggers Ball | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Cinco De Murder | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Curse of the Tiki | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-D’Licious’ Devious Drag Show | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Dr. Horace’s Steampunk Adventure | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Elkwood Cove Masquerade Murder | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Franken Castle Halloween Festival | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Frogwarts School of Mystery & Murder | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-I Saw Mommy Kissing Santa | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Klaus’ Killer Circus | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Mrs. Claus Went Missing | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Murder at the Grand Gatsby | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Murder Motel | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Mysterious Caribbean Cruise | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Orchid’s Mystery Manor | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Salem’s Spooktacular Costume Party | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Shamrock Stalker | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-The Mad Hatter’s Tea Party | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Till Death Do Us Part | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
-Totally Gnarly 80's Party | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
+Annual Ugly Christmas Sweater Party
+April’s Foolish Mystery Party
+At The Strike of Midnight
+Bootleggers Ball
+Cinco De Murder
+Curse of the Tiki
+D’Licious’ Devious Drag Show
+Dr. Horace’s Steampunk Adventure
+Elkwood Cove Masquerade Murder
+Franken Castle Halloween Festival
+Frogwarts School of Mystery & Murder
+I Saw Mommy Kissing Santa
+Klaus’ Killer Circus
+Mrs. Claus Went Missing
+Murder at the Grand Gatsby
+Murder Motel
+Mysterious Caribbean Cruise
+Orchid’s Mystery Manor
+Salem’s Spooktacular Costume Party
+Shamrock Stalker
+The Mad Hatter’s Tea Party
+Till Death Do Us Part
+Totally Gnarly 80's Party
 testtheme | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/testtheme.txt
