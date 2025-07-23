@@ -1,0 +1,45 @@
+THEME: Test Theme
+
+[THEME NOTES]
+This theme Bootleggers Ball.  The notes for this theme will go here such as place out a a clue before the game starts or something else required by the game.
+
+[PRE-INTRODUCTION HOST INSTRUCTIONS]
+Before the game begins, pull all the characters together and show them a Round 1 card as an example. Explain how the game will flow and let them know they’ll each have similar cards with information to share. Instruct them to mingle with the guests and share their information gradually—don’t give all the details to one person. Instead, mix it up and distribute the information across multiple conversations to keep the game engaging for everyone.
+
+[CHECKLIST]
+Item 1
+Item 2
+Item 3 
+Item 4
+Item 5
+
+[GAMEINTRODUCTION HOST SCRIPT]
+“Good evening all you wonderful, exciting and … devious people and welcome to A Murder Mystery Dinner’s – THEME NAME GOES HERE. Tonight, we play a game. A game of mystery, deceit, and murder. Tonight, one of you is going to die by the hands of another in this room. Who will the murderer be? This is what we must find out. You will work in teams – who is on your team is your choice. Those of you with name tags are our characters. The rest of you are attendees soon to become investigators. This game has 4 Rounds each lasting around 20 minutes. In round one you will learn all about our characters. Who they are, what they do, and who they are involved with? In round 2 we will begin to uncover their motives. In Round 3, someone will die, and your investigation will begin. Then finally in round 4, we will accuse our murderer of their crime. Now, let’s learn a little about our Characters.”
+
+[INTRO READ ORDER]
+Character 1
+Character 2
+Character 3
+Character 4
+Character 5
+Character 6
+Character 7
+Character 8
+
+[ROUND 1 HOST INSTRUCTIONS]
+Make sure all guests have their envelopes before beginning.
+Read the clue card aloud first.
+
+[ROUND 2 HOST INSTRUCTIONS]
+Make sure all guests have their envelopes before beginning.
+Read the clue card aloud first.
+
+[ROUND 4 CHARACTER ACCUSATION ORDER]
+Character 1
+Character 2
+Character 3
+Character 4
+Character 5
+Character 6
+Character 7
+Character 8
