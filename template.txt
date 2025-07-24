@@ -63,7 +63,7 @@ In this rouns the only activity is for everyone to work with their team members.
 Ladies and gentlemen, round 4 part one has begun, please get with your teammates, you will have 10 minutes to go over your notes and fill out the accusation cards I am going to pass out.
 
 [ROUND 4 PART 2 HOST INSTRUCTIONS]
-Collect all the accusation cards, and seperate the team who got it correct.  Have all the characters join you in the fron of the room.  You will have guests make verbal accusations first, then the characters will read their round 4 cards. IMPPORTANT:  ONLY GIVE EACH CHARACTER THEIR ROUND $ CARD WHEN IT IS THEIR TIEM TO READ, NOT BEFORE.  THIS CAN SPOIL THE GAME!
+Collect all the accusation cards, and seperate the team who got it correct.  Have all the characters join you in the fron of the room.  You will have guests make verbal accusations first, then the characters will read their round 4 cards. IMPPORTANT:  ONLY GIVE EACH CHARACTER THEIR ROUND $ CARD WHEN IT IS THEIR TIME TO READ, NOT BEFORE.  THIS CAN SPOIL THE GAME!
 
 [ROUND 4 PART 2 HOST INSTRUCTIONS 1]
 Collect all the accusation cards, and separate the team who got it correct. Have all the characters join you in the front of the room.
@@ -72,10 +72,16 @@ Collect all the accusation cards, and separate the team who got it correct. Have
 Ladies and gentlemen, your attention please. Characters would kindly join me in the front of the room.
 
 [ROUND 4 PART 2 HOST INSTRUCTIONS 2]
-Allow characters to join you before proceeding.
+Allow characters to join you before proceeding. Next you will 
 
 [ROUND 4 PART 2 HOST SCRIPT 2]
-Ladies and gentlemen, now that you have collected your clues, put together your evidence...
+Ladies and gentlemen, now that you have collected your clues, put together your evidence it's time to accuse your suspects of their crime. Let me hear it, who do you think our murderer is and why?
+
+[ROUND 4 PART 2 HOST INSTRUCTIONS 3]
+Once teams and guests have had a chance to make their accusations you can move on
+
+[ROUND 4 PART 2 HOST SCRIPT 3]
+Those are some pretty harsh accusations there,  lets find out who really commited this horibble crime! Character 1 Name, what do you have to say for yourself?
 
 [ROUND 4 CHARACTER ACCUSATION ORDER]
 *Reminder pass out round 4 cards one at a time
