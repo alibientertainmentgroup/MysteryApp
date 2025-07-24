@@ -13,6 +13,9 @@ Item 3
 Item 4
 Item 5
 
+[GAMEINTRODUCTION HOST INSTRUCTION]
+Pull characters together in the fron of the room.  Line them up in the read order below. Read the game introduction to the guests and then have each character read their Charcater Bio in Order.
+
 [GAMEINTRODUCTION HOST SCRIPT]
 “Good evening all you wonderful, exciting and … devious people and welcome to A Murder Mystery Dinner’s – THEME NAME GOES HERE. Tonight, we play a game. A game of mystery, deceit, and murder. Tonight, one of you is going to die by the hands of another in this room. Who will the murderer be? This is what we must find out. You will work in teams – who is on your team is your choice. Those of you with name tags are our characters. The rest of you are attendees soon to become investigators. This game has 4 Rounds each lasting around 20 minutes. In round one you will learn all about our characters. Who they are, what they do, and who they are involved with? In round 2 we will begin to uncover their motives. In Round 3, someone will die, and your investigation will begin. Then finally in round 4, we will accuse our murderer of their crime. Now, let’s learn a little about our Characters.”
 
