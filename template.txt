@@ -1,7 +1,7 @@
 THEME: Test Theme
 
 [THEME NOTES]
-This theme is a test theme. The notes for this theme will go here—such as placing out a clue before the game starts or anything else that’s required by the game.
+This theme is a test them.  The notes for this theme will go here such as place out a a clue before the game starts or something else required by the game.
 
 [PRE-INTRODUCTION HOST INSTRUCTIONS]
 Before the game begins, pull all the characters together and show them a Round 1 card as an example. Explain how the game will flow and let them know they’ll each have similar cards with information to share. Instruct them to mingle with the guests and share their information gradually—don’t give all the details to one person. Instead, mix it up and distribute the information across multiple conversations to keep the game engaging for everyone.
@@ -14,14 +14,10 @@ Item 4
 Item 5
 
 [GAMEINTRODUCTION HOST INSTRUCTION]
-Bring the characters to the front of the room and line them up in the order listed below. Read the game introduction script to the audience, then have each character read their Character Bio in order. If you have a microphone walk about the room and make eye contact with guests.
+Pull characters together in the fron of the room.  Line them up in the read order below. Read the game introduction to the guests and then have each character read their Charcater Bio in Order.
 
 [GAMEINTRODUCTION HOST SCRIPT]
-Good evening all you wonderful, exciting and … devious people and welcome to A Murder Mystery Dinner’s – THEME NAME GOES HERE. Tonight, we play a game. A game of mystery, deceit, and murder. Tonight, one of you is going to die by the hands of another in this room. Who will the murderer be? This is what we must find out.
-
-You will work in teams – who is on your team is your choice. Those of you with name tags are our characters. The rest of you are attendees soon to become investigators.
-
-This game has 4 Rounds each lasting around 20 minutes. In round one you will learn all about our characters. Who they are, what they do, and who they are involved with? In round 2 we will begin to uncover their motives. In Round 3, someone will die, and your investigation will begin. Then finally in round 4, we will accuse our murderer of their crime.
+“Good evening all you wonderful, exciting and … devious people and welcome to A Murder Mystery Dinner’s – THEME NAME GOES HERE. Tonight, we play a game. A game of mystery, deceit, and murder. Tonight, one of you is going to die by the hands of another in this room. Who will the murderer be? This is what we must find out. You will work in teams – who is on your team is your choice. Those of you with name tags are our characters. The rest of you are attendees soon to become investigators. This game has 4 Rounds each lasting around 20 minutes. In round one you will learn all about our characters. Who they are, what they do, and who they are involved with? In round 2 we will begin to uncover their motives. In Round 3, someone will die, and your investigation will begin. Then finally in round 4, we will accuse our murderer of their crime. Now, let’s learn a little about our Characters.”
 
 [INTRO READ ORDER]
 Character 1
@@ -33,36 +29,70 @@ Character 6
 Character 7
 Character 8
 
+
+
+
 [ROUND 1 HOST INSTRUCTIONS]
-Collect the Character Bio cards and pass out the Round 1 cards after announcing the start of Round 1. The host should stay in character and mingle with the guests. This round may start a little slowly—people might be unsure of what to do. Encourage all characters to read their cards first, then interact based on what’s written.
-Five minutes before the end of the round, when the timer goes off, give a 5-minute warning to the room.
+Collect Character Biography Cards and pass out round 1 cards after announcing the start to Round 1.  During this round the host should mingle with the guest in character. This round often gets off to a slow start as people are a bit confused. All characters should read their cards then mingle while following what their cards say to do. 5 minutes before the end of the round when the timer goes off announce the 5 minute warning.
 
 [ROUND 1 HOST SCRIPT]
-“Ladies and gentlemen, Round One has officially begun! Characters, I’m handing out your Round One cards now. Please read your card and then begin mingling with other characters and guests, sharing the clues you've learned. Just a reminder—your host is not part of the crime!”
+Ladies and Gentlemen round one has begun. Characters, I will now provide you with your round one cards. Share any information you have as you mingle with other characters and guests at the party. Note that the host has no ties into the crime.  
 
 [ROUND 2 HOST INSTRUCTIONS]
-Announce the beginning of Round 2, then pass out the Round 2 cards. Characters may keep their Round 1 cards to refer back to. This round usually flows more naturally as everyone starts getting into the game. Encourage characters to read their new cards and mingle based on their updated objectives.
-When there are 5 minutes remaining, announce the warning.
+Pass out round 2 cards after announcing the start to Round 2.  Characters may keep their round 1 cards so they can use the information During this round the host should mingle with the guest in character. This round often flows better as people now know what they are trying to do. All characters should read their cards then mingle while following what their cards say to do. 5 minutes before the end of the round when the timer goes off announce the 5 minute warning.
 
-Also, after the 5-minute warning, discreetly inform the designated victim that it’s their time to “die,” and begin setting up the scene as described in the theme file. Make sure to create a dramatic and attention-grabbing moment!
+After the 5 minute warning is announced find the victim and inform them they are going to die and set up the death scene.  Draw attention to the death as described...........here.
 
 [ROUND 2 HOST SCRIPT]
-“Round Two is underway! Characters, here are your Round Two cards. Take a moment to read them, then continue mingling and sharing information. And remember—your host is not part of the crime!”
+Ladies and Gentlemen round two has begun. Characters, I will now provide you with your round two cards. Share any information you have as you mingle with other characters and guests at the party. Note that the host has no ties into the crime.  
 
 [MEAL BREAK INSTRUCTIONS]
-If a meal break is being used, this is the perfect time to pause the game for about 30 minutes so guests can eat. Let them know they are free to continue casual conversations, but game-related interaction is paused. This is a good time for the host to reset props, check in with characters, and prep for Round 3. Once the break is over, call everyone back together and begin the next round.
+During the break play music if available and interact with guests.  Get people to give their theories on what has happened so far.  Be entertaining.
 
 [ROUND 3 HOST INSTRUCTIONS]
-After the meal break (if there is one), announce the start of Round 3. At this point, the crime will occur, and the investigation will begin. Encourage characters to react to the murder—shock, suspicion, fear—and start theorizing and sharing new clues.
-The host should hand out Round 3 cards and stay active in character, helping stir the pot. With 5 minutes left, give the final warning.
+Pass out round three cards after announcing the start to Round 2.  Characters may keep their round two cards so they can use the information During this round the host should mingle with the guest in character. All characters should read their cards then mingle while following what their cards say to do. 5 minutes before the end of the round when the timer goes off announce the 5 minute warning.
+
+After the 10 minute warning Announce to the room you have new information pass out the following:
+- Forensic Report
+- Clue Page (if Applicable)
 
 [ROUND 3 HOST SCRIPT]
-“Welcome back, everyone. Round Three is now in play! Characters, take your Round Three cards and prepare yourselves—something terrible is about to happen. Read your card, mingle, and begin piecing together this mystery. Time is ticking!”
+Ladies and Gentlemen round three has begun. Characters, I will now provide you with your round one cards. Share any information you have as you mingle with other characters and guests at the party. Note that the host has no ties into the crime.  
 
-[ROUND 4 HOST INSTRUCTIONS]
-Once Round 3 concludes, gather everyone for Round 4. Distribute the final cards. This is where teams make their final accusations and try to solve the mystery. Remind them to agree on one killer per team.
-Allow time for each team to present their accusation, then let characters read their final statements in order. The killer will be the last to reveal their truth. Be sure to celebrate everyone’s effort and encourage applause and photos.
+[ROUND 4 PART 1 HOST INSTRUCTIONS]
+In this rouns the only activity is for everyone to work with their team members.  They will have 10 minutes to go over their notes and prepare their accusation. At the end of the round you MUST collect the accusation cards.
 
-[ROUND 4 HOST SCRIPT]
-“It’s time for the final round! This is where everything comes together. Characters, take your Round Four cards. Teams, now’s your chance to make your accusations. Work together, decide on your suspect, and prepare to share your theory with the group.
-Once all teams have spoken, our characters will reveal their final statements—and the killer will come clean!”
+[ROUND 4 PART 1 HOST Script]
+Ladies and gentlemen, round 4 part one has begun, please get with your teammates, you will have 10 minutes to go over your notes and fill out the accusation cards I am going to pass out.
+
+[ROUND 4 PART 2 HOST INSTRUCTIONS]
+Collect all the accusation cards, and seperate the team who got it correct.  Have all the characters join you in the fron of the room.  You will have guests make verbal accusations first, then the characters will read their round 4 cards. IMPPORTANT:  ONLY GIVE EACH CHARACTER THEIR ROUND $ CARD WHEN IT IS THEIR TIME TO READ, NOT BEFORE.  THIS CAN SPOIL THE GAME!
+
+[ROUND 4 PART 2 HOST INSTRUCTIONS 1]
+Collect all the accusation cards, and separate the team who got it correct. Have all the characters join you in the front of the room.
+
+[ROUND 4 PART 2 HOST SCRIPT 1]
+Ladies and gentlemen, your attention please. Characters would kindly join me in the front of the room.
+
+[ROUND 4 PART 2 HOST INSTRUCTIONS 2]
+Allow characters to join you before proceeding. Next you will 
+
+[ROUND 4 PART 2 HOST SCRIPT 2]
+Ladies and gentlemen, now that you have collected your clues, put together your evidence it's time to accuse your suspects of their crime. Let me hear it, who do you think our murderer is and why?
+
+[ROUND 4 PART 2 HOST INSTRUCTIONS 3]
+Once teams and guests have had a chance to make their accusations you can move on
+
+[ROUND 4 PART 2 HOST SCRIPT 3]
+Those are some pretty harsh accusations there,  lets find out who really commited this horibble crime! Character 1 Name, what do you have to say for yourself?
+
+[ROUND 4 CHARACTER ACCUSATION ORDER]
+*Reminder pass out round 4 cards one at a time
+Character 1
+Character 2
+Character 3
+Character 4
+Character 5
+Character 6
+Character 7
+Character 8
