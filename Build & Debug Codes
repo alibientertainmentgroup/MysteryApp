@@ -3,3 +3,8 @@
 .\gradlew clean
 .\gradlew assembleDebug
 adb install -r app\build\outputs\apk\debug\app-debug.apk
+
+
+To flip to test mode locade code below 
+
+private final boolean IS_TEST_MODE = true;                // Flip to false for real game
