@@ -12,7 +12,7 @@ Frogwarts School of Mystery & Murder
 I Saw Mommy Kissing Santa
 Klaus’ Killer Circus
 Mrs. Claus Went Missing
-Murder at the Grand Gatsby
+Murder at the Grand Gatsby  | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/Murder%20at%20the%20Grand%20Gatsby.txt
 Murder Motel
 Mysterious Caribbean Cruise
 Orchid’s Mystery Manor
@@ -22,4 +22,5 @@ The Mad Hatter’s Tea Party
 Till Death Do Us Part
 Totally Gnarly 80's Party
 Theme Template  | https://raw.githubusercontent.com/alibientertainmentgroup/MysteryApp/refs/heads/main/template.txt
+
 
